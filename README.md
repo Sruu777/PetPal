@@ -1,6 +1,6 @@
 # PetPal – Pet Care Management System
 
-The PetPal Project is a Python-based project that showcases the use of Object-Oriented Programming (OOP) principles. It includes three main classes: `Pet`, `CareTask`, and `PetManager`, along with a `Frontend` implemented in `main.py` and utility functions in `utility.py`. This project provides a simple platform for managing pet information and organising their daily care activities using OOP concepts.
+The PetPal Project is a Python-based project that demonstrates the implementation of Object-Oriented Programming (OOP) concepts, including **Encapsulation, Inheritance, Polymorphism, and Abstraction**. It includes three main classes: `Pet`, `CareTask`, and `PetManager`, along with a frontend implemented in `main.py` and utility functions in `utility.py`. The project provides a simple platform for managing pet information and organising daily care activities while demonstrating the practical application of OOP principles.
 
 ## Table of Contents
 
